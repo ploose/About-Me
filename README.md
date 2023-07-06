@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Patrick and I'm a developer from Switzerland.</p>
+<p align="left">My name is Patrick and I'm an engineer from Switzerland.</p>
 
 ###
 
